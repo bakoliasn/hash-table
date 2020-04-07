@@ -5,7 +5,7 @@ struct LinkedList{
 	struct LinkedList
 *next;
 };
-typedef struct LunkedList
+typedef struct LinkedList
 *node;
 node newNode(){
 	node temp;
